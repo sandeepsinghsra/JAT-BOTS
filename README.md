@@ -2,7 +2,7 @@
 <p align="center">
 
 <h1 align="center">
-  <b>𝐑 JAT BOTS</b>
+  <b> JAT BOTS</b>
 </h1>
 
 [![Stars](https://img.shields.io/github/stars/MrMKN/PROFESSOR-BOT?style=flat-square&color=yellow)](https://github.com/MrMKN/PROFESSOR-BOT/stargazers)
@@ -117,19 +117,6 @@ broadcast - to broadcast a message to all Eva Maria users
 ```
 </details>
 
-## TELAGRAM SUPPORT 
 
-* [![MKN BOTZ](https://img.shields.io/static/v1?label=MKN&message=BOTZ&color=critical)](https://t.me/mkn_bots_updates)
-
-## Credit 💞
-
-* [![TEAM EVA-MARIA](https://img.shields.io/static/v1?label=TEAM&message=EVA-MARIA&color=yellow)](https://t.me/TeamEvamaria)
-
-* [![BASE REPO](https://img.shields.io/static/v1?label=BASE&message=REPO&color=green)](https://t.me/TeamEvamaria)
-
-
-## Disclaimer
-[![GNU Affero General Public License 2.0](https://www.gnu.org/graphics/agplv3-155x51.png)](https://www.gnu.org/licenses/agpl-3.0.en.html#header)    
-Licensed under [GNU AGPL 2.0.](https://github.com/MrMKN/PROFESSOR-BOT/blob/main/LICENSE)
 Selling The Codes To Other People For Money Is *Strictly Prohibited*.
 
